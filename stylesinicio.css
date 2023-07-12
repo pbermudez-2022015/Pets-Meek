@@ -79,7 +79,7 @@ header .boton {
     left: 0;
     border-width: 0 0 35vh 100vw;
     border-style: solid;
-    border-color: transparent transparent  transparent;
+    border-color: transparent transparent #fff transparent;
 }
 
 .sesgoarriba {
